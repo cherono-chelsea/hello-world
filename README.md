@@ -1,2 +1,2 @@
-# hello-world
-this is my very first repository
+hello people
+i am chelsea a passionate web  developer
